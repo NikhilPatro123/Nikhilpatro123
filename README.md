@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNxdTNzNXFqejdma2FwNTFjenhuYnA5dnhoanRncm9yd2pya3VseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="400"/>
 </p>
+<p align="center">
+  <a href="https://chnikhilpatro.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blue?style=for-the-badge&logo=netlify" />
+  </a>
+</p>
 
 
 ---
@@ -18,6 +23,7 @@
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast | Full-Stack Explorer**
 
 ---
+
 
 ## 👨‍💻 About Me  
 I’m a **DevOps Engineer** with 2 years of experience in **CI/CD automation, containerization, and cloud infrastructure**.  
@@ -59,6 +65,8 @@ Skilled in **Linux, Docker, Kubernetes, Jenkins, and AWS**, I love solving probl
   <a href="https://www.linkedin.com/in/nikhil-patro-829136229" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chnikhilpatro356@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/NikhilPatro123" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://chnikhilpatro.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
 </p>
 
 ---
@@ -70,45 +78,45 @@ Skilled in **Linux, Docker, Kubernetes, Jenkins, and AWS**, I love solving probl
 
 ---
 
-## 💻 Developer Vibes  
+## 💻 DevOps Vibes  
 
 <table align="center">
 <tr>
 <td align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Pro Coder"/>
-  <br><sub><b>Automating Everything 🚀</b></sub>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Docker Whale"/>
+  <br><sub><b>Containerizing Everything 🐳</b></sub>
 </td>
 <td align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Developer"/>
-  <br><sub><b>Turning Ideas Into Code 💡</b></sub>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="300" alt="Kubernetes"/>
+  <br><sub><b>Orchestrating with Kubernetes ☸️</b></sub>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Python Dev"/>
-  <br><sub><b>Python is My Superpower 🐍</b></sub>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="CI/CD Automation"/>
+  <br><sub><b>CI/CD Pipelines 🚀</b></sub>
 </p>
 
 ---
 
-## 🖥️ Pro Coder Mode  
+## 🖥️ Pro Coder Mode (DevOps Edition)  
 <p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="250" alt="AI Coding"/>
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" alt="Matrix Hacker"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="DevOps Engineer"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Cloud Automation"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Futuristic Coding"/>
-  <br><sub><b>Transforming coffee ☕ into clean code 💻</b></sub>
+  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="300" alt="Cloud Native"/>
+  <br><sub><b>Cloud-Native + Automation = ❤️</b></sub>
 </p>
 
 ---
 
 ## ✨ Quote I Live By  
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
-  <br><sub><b>"Code never lies, comments sometimes do."</b></sub>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3h2a20zNWVvaWUxejcxcnloejJrNTA3N3NzZ2VoMW5tZW1ydDk0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/myBz2xDdUTMmuACPD6/giphy.gif" width="300"/>
+  <br><sub><b>"Automate what you can, monitor what you can’t."</b></sub>
 </p>
 
 ---
