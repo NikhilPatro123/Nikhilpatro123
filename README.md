@@ -77,6 +77,16 @@ Skilled in **Linux, Docker, Kubernetes, Jenkins, and AWS**, I love solving probl
 </p>
 
 ---
+<h2 align="left">🔥 My Stats :</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilPatro123&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilPatro123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
 
 ## 💻 DevOps Vibes  
 
